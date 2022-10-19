@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb69616ce45ae8d47940d957ba265211, type: 3}
+  m_Name: Water Spell
+  m_EditorClassIdentifier: 
+  moveName: Water Spell
+  moveAnimName: Hadouken Attack
+  type: 0
+  areaOfEffect: 0
+  cost: 0
+  baseDamage: 7
+  isMelee: 0
+  moveEffects:
+  - damage: 5
+    moveEffect: {fileID: 8249448332987109410, guid: 7119706915d9c434a84a8da3bdaec497, type: 3}
